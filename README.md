@@ -27,4 +27,7 @@ This web application helps investors and analysts explore how major market indic
 
 ---
 
+![Demo](git_gif.gif)
+
+
 
