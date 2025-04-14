@@ -1,4 +1,4 @@
-# 📈 Economic Regime-Based Market Return Explorer
+# 📈 Market Returns Based on Economic Conditions
 
 This web application helps investors and analysts explore how major market indices have historically performed under specific economic conditions. Users can filter by macroeconomic variables (e.g., inflation, unemployment), and the app returns visualizations of forward returns based on matching historical periods.
 
